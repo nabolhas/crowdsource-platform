@@ -331,6 +331,9 @@
      .when('/contributors/aditimithal', {
          templateUrl: '/static/templates/contributors/aditimithal.html'
      })
+     .when('/contributors/nikiab', {
+         templateUrl: '/static/templates/contributors/nikiab.html'
+     })
     .otherwise('/');
   }
 })();
